@@ -1,6 +1,6 @@
 Ham radio is not dead, and you should use it.
 Many people in 2021 think that phones are the gateway to everything. Which is why many people think that
-ham radio is useless. Now you may ask what is ham radio. Ham radio is a radio that lets you transmit on
+ham radio is useless. Now you may ask what is ham radio? Ham radio is a radio that lets you transmit on
 specific frequencies, but you need a license. take it as having a radio tower in your pocket.
 It was cool until cell phones. Then everyone turned it off and left it in the basement... 
 But it still found popularity in many ways.
@@ -15,7 +15,7 @@ It’s commonly used by truckers, but many truckers got into ham instead of CB.
 
 On the ham bands there are many different types of people and many different types of stations you can contact,
 some stations are only listen because everybody’s listening to them, like the police reports, the airport and especially
-the most commonly known that you might have at your house or probably in your car the NOAA reports. 24/7, this is one of
+the most commonly known that you might have at your house or probably in your car the NOAA reports.this is one of
 the best reasons to get a ham.
 
 Repeaters are a great way to start off your ham license.
